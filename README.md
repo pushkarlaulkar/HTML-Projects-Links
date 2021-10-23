@@ -6,7 +6,7 @@ FreeCodeCamp Tribute Page Challenge
 
 FreeCodeCamp Survey Form Challenge
 ---------
-[Survey Form](https://codepen.io/pushkarlaulkar/full/jOBorEq)
+[Survey Form](https://codepen.io/pushkarlaulkar/full/dyvLRWL)
 
 FreeCodeCamp Technical Documentation Challenge
 ---------
